@@ -1,2 +1,2 @@
 # Python_helpers
-Python scripts for bioinformatics/computational biology analyses.
+a repository that contains helpful Python scripts for bioinformatics/computational biology analyses.
